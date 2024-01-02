@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.round {
+    border-radius: 50%;
+}
+
+.drop:hover .dropdown-content {
+    display: block;
+}

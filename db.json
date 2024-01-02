@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "uname": "Rahul_Mehata",
+      "password": "1234",
+      "name": "Rahul",
+      "DOB": "2004-06-17",
+      "mobile": 8446414152,
+      "cpassword": "1234",
+      "lname": "Mehata",
+      "email": "rahulmahato0852@gmail.com",
+      "state": "Maharashart",
+      "values": "",
+      "terms": true,
+      "id": 1
+    }
+  ],
+  "admin": [
+    {
+      "name": "Rahul Mehata",
+      "email": "rahulmahato0852@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "tours": [
+    {
+      "desc": "Located in Uttarakhand, it is one of the most sacred pilgrimages of Lord Shiva and is one of the famous Char Dham sites. This scenic city offers a tranquil ambiance with its snow-white peaks, luscious landscapes, green forests and vibrant rhododendrons.",
+      "Place": "Kedarnath",
+      "time": "5 hours",
+      "date": "2023-09-13",
+      "price": "2000",
+      "imageAddress": "https://images.unsplash.com/photo-1612438214708-f428a707dd4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a2VkYXJuYXRofGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+      "review": "10",
+      "stars": "5",
+      "id": 1
+    },
+    {
+      "desc": "Located in Uttarakhand, it is one of the most sacred pilgrimages of Lord Shiva and is one of the famous Char Dham sites. This scenic city offers a tranquil ambiance with its snow-white peaks, luscious landscapes, green forests and vibrant rhododendrons.",
+      "Place": "Kedarnath",
+      "time": "12 hours",
+      "date": "2023-09-13",
+      "price": "3000",
+      "imageAddress": "https://images.unsplash.com/photo-1612438214708-f428a707dd4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a2VkYXJuYXRofGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+      "review": "10",
+      "stars": "5",
+      "id": 2
+    },
+    {
+      "desc": "Located in Uttarakhand, it is one of the most sacred pilgrimages of Lord Shiva and is one of the famous Char Dham sites. This scenic city offers a tranquil ambiance with its snow-white peaks, luscious landscapes, green forests and vibrant rhododendrons.",
+      "Place": "Kedarnath",
+      "time": "24 hours",
+      "date": "2023-09-13",
+      "price": "5000",
+      "imageAddress": "https://images.unsplash.com/photo-1612438214708-f428a707dd4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a2VkYXJuYXRofGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+      "review": "10",
+      "stars": "5",
+      "id": 3
+    },
+    {
+      "desc": "Located in Uttarakhand, it is one of the most sacred pilgrimages of Lord Shiva and is one of the famous Char Dham sites. This scenic city offers a tranquil ambiance with its snow-white peaks, luscious landscapes, green forests and vibrant rhododendrons.",
+      "Place": "Kedarnath",
+      "time": "3 days",
+      "date": "2023-09-13",
+      "price": "10000",
+      "imageAddress": "https://images.unsplash.com/photo-1612438214708-f428a707dd4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a2VkYXJuYXRofGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+      "review": "10",
+      "stars": "5",
+      "id": 4
+    },
+    {
+      "desc": "Located in Uttarakhand, it is one of the most sacred pilgrimages of Lord Shiva and is one of the famous Char Dham sites. This scenic city offers a tranquil ambiance with its snow-white peaks, luscious landscapes, green forests and vibrant rhododendrons.",
+      "Place": "Kedarnath",
+      "time": "More Than 3 days",
+      "date": "2023-09-13",
+      "price": "15000",
+      "imageAddress": "https://images.unsplash.com/photo-1612438214708-f428a707dd4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a2VkYXJuYXRofGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+      "review": "10",
+      "stars": "5",
+      "id": 5
+    },
+    {
+      "desc": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal.",
+      "Place": "Taj Mahal",
+      "time": "5 hours",
+      "date": "2023-09-13",
+      "price": "2000",
+      "imageAddress": "https://media.istockphoto.com/id/1826593919/photo/india-uttar-pradesh-agra-taj-mahal-dawn.webp?b=1&s=170667a&w=0&k=20&c=gk8R7g5vrUiH1qac6B9xg1uBAcIp-diQ2OeLBpUwAGc=",
+      "review": "7",
+      "stars": "2",
+      "id": 6
+    },
+    {
+      "desc": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal.",
+      "Place": "Taj Mahal",
+      "time": "12 hours",
+      "date": "2023-09-13",
+      "price": "3000",
+      "imageAddress": "https://media.istockphoto.com/id/1826593919/photo/india-uttar-pradesh-agra-taj-mahal-dawn.webp?b=1&s=170667a&w=0&k=20&c=gk8R7g5vrUiH1qac6B9xg1uBAcIp-diQ2OeLBpUwAGc=",
+      "review": "7",
+      "stars": "2",
+      "id": 7
+    },
+    {
+      "desc": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal.",
+      "Place": "Taj Mahal",
+      "time": "24 hours",
+      "date": "2023-09-13",
+      "price": "5000",
+      "imageAddress": "https://media.istockphoto.com/id/1826593919/photo/india-uttar-pradesh-agra-taj-mahal-dawn.webp?b=1&s=170667a&w=0&k=20&c=gk8R7g5vrUiH1qac6B9xg1uBAcIp-diQ2OeLBpUwAGc=",
+      "review": "7",
+      "stars": "2",
+      "id": 8
+    },
+    {
+      "desc": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal.",
+      "Place": "Taj Mahal",
+      "time": "3 days",
+      "date": "2023-09-13",
+      "price": "10000",
+      "imageAddress": "https://media.istockphoto.com/id/1826593919/photo/india-uttar-pradesh-agra-taj-mahal-dawn.webp?b=1&s=170667a&w=0&k=20&c=gk8R7g5vrUiH1qac6B9xg1uBAcIp-diQ2OeLBpUwAGc=",
+      "review": "7",
+      "stars": "2",
+      "id": 9
+    },
+    {
+      "desc": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal.",
+      "Place": "Taj Mahal",
+      "time": "More Than 3 days",
+      "date": "2023-09-13",
+      "price": "15000",
+      "imageAddress": "https://media.istockphoto.com/id/1826593919/photo/india-uttar-pradesh-agra-taj-mahal-dawn.webp?b=1&s=170667a&w=0&k=20&c=gk8R7g5vrUiH1qac6B9xg1uBAcIp-diQ2OeLBpUwAGc=",
+      "review": "7",
+      "stars": "5",
+      "id": 10
+    },
+    {
+      "desc": "The Red Fort Complex was built as the palace fort of Shahjahanabad – the new capital of the fifth Mughal Emperor of India, Shah Jahan. Named for its massive enclosing walls of red sandstone",
+      "Place": "The Red Front",
+      "time": "5 hours",
+      "date": "2023-09-13",
+      "price": "2000",
+      "imageAddress": "https://media.istockphoto.com/id/1370262771/photo/red-fort-delhi.webp?b=1&s=170667a&w=0&k=20&c=VPwGwmqHlPfU_88gMVRSNyWdHQYVxSaW89JMkk6LVNY=",
+      "review": "9",
+      "stars": "5",
+      "id": 11
+    },
+    {
+      "desc": "The Red Fort Complex was built as the palace fort of Shahjahanabad – the new capital of the fifth Mughal Emperor of India, Shah Jahan. Named for its massive enclosing walls of red sandstone",
+      "Place": "The Red Front",
+      "time": "12 hours",
+      "date": "2023-09-13",
+      "price": "5000",
+      "imageAddress": "https://media.istockphoto.com/id/1370262771/photo/red-fort-delhi.webp?b=1&s=170667a&w=0&k=20&c=VPwGwmqHlPfU_88gMVRSNyWdHQYVxSaW89JMkk6LVNY=",
+      "review": "9",
+      "stars": "5",
+      "id": 12
+    },
+    {
+      "desc": "The Red Fort Complex was built as the palace fort of Shahjahanabad – the new capital of the fifth Mughal Emperor of India, Shah Jahan. Named for its massive enclosing walls of red sandstone",
+      "Place": "The Red Front",
+      "time": "24 hours",
+      "date": "2023-09-13",
+      "price": "7000",
+      "imageAddress": "https://media.istockphoto.com/id/1370262771/photo/red-fort-delhi.webp?b=1&s=170667a&w=0&k=20&c=VPwGwmqHlPfU_88gMVRSNyWdHQYVxSaW89JMkk6LVNY=",
+      "review": "9",
+      "stars": "5",
+      "id": 13
+    },
+    {
+      "desc": "The Red Fort Complex was built as the palace fort of Shahjahanabad – the new capital of the fifth Mughal Emperor of India, Shah Jahan. Named for its massive enclosing walls of red sandstone",
+      "Place": "The Red Front",
+      "time": "3 days",
+      "date": "2023-09-13",
+      "price": "1000",
+      "imageAddress": "https://media.istockphoto.com/id/1370262771/photo/red-fort-delhi.webp?b=1&s=170667a&w=0&k=20&c=VPwGwmqHlPfU_88gMVRSNyWdHQYVxSaW89JMkk6LVNY=",
+      "review": "9",
+      "stars": "5",
+      "id": 14
+    },
+    {
+      "desc": "The Red Fort Complex was built as the palace fort of Shahjahanabad – the new capital of the fifth Mughal Emperor of India, Shah Jahan. Named for its massive enclosing walls of red sandstone",
+      "Place": "The Red Front",
+      "time": "More Than 3 days",
+      "date": "2023-09-13",
+      "price": "15000",
+      "imageAddress": "https://media.istockphoto.com/id/1370262771/photo/red-fort-delhi.webp?b=1&s=170667a&w=0&k=20&c=VPwGwmqHlPfU_88gMVRSNyWdHQYVxSaW89JMkk6LVNY=",
+      "review": "9",
+      "stars": "5",
+      "id": 15
+    },
+    {
+      "desc": "Ajanta caves are known as the masterpiece of Buddhist religious art across the globe. This UNESCO heritage site, named after a neighboring medieval village, has more than 30 caves. All the caves are rock-cut in nature",
+      "Place": "Ajanta Caves",
+      "time": "5 hours",
+      "date": "2023-09-13",
+      "price": "2000",
+      "imageAddress": "https://media.istockphoto.com/id/629821246/photo/kailas-temple-in-ellora-caves-complex-in-india.webp?b=1&s=170667a&w=0&k=20&c=DPpmpKu5EkzvgfXKcNj6k_Sq9Yc3Hn4oXgCPXKwyfOc=",
+      "review": "4",
+      "stars": "4",
+      "id": 16
+    },
+    {
+      "desc": "Ajanta caves are known as the masterpiece of Buddhist religious art across the globe. This UNESCO heritage site, named after a neighboring medieval village, has more than 30 caves. All the caves are rock-cut in nature",
+      "Place": "Ajanta Caves",
+      "time": "12 hours",
+      "date": "2023-09-13",
+      "price": "5000",
+      "imageAddress": "https://media.istockphoto.com/id/629821246/photo/kailas-temple-in-ellora-caves-complex-in-india.webp?b=1&s=170667a&w=0&k=20&c=DPpmpKu5EkzvgfXKcNj6k_Sq9Yc3Hn4oXgCPXKwyfOc=",
+      "review": "4",
+      "stars": "4",
+      "id": 17
+    },
+    {
+      "desc": "Ajanta caves are known as the masterpiece of Buddhist religious art across the globe. This UNESCO heritage site, named after a neighboring medieval village, has more than 30 caves. All the caves are rock-cut in nature",
+      "Place": "Ajanta Caves",
+      "time": "24 hours",
+      "date": "2023-09-13",
+      "price": "7000",
+      "imageAddress": "https://media.istockphoto.com/id/629821246/photo/kailas-temple-in-ellora-caves-complex-in-india.webp?b=1&s=170667a&w=0&k=20&c=DPpmpKu5EkzvgfXKcNj6k_Sq9Yc3Hn4oXgCPXKwyfOc=",
+      "review": "4",
+      "stars": "4",
+      "id": 18
+    },
+    {
+      "desc": "Ajanta caves are known as the masterpiece of Buddhist religious art across the globe. This UNESCO heritage site, named after a neighboring medieval village, has more than 30 caves. All the caves are rock-cut in nature",
+      "Place": "Ajanta Caves",
+      "time": "3 days",
+      "date": "2023-09-13",
+      "price": "10000",
+      "imageAddress": "https://media.istockphoto.com/id/629821246/photo/kailas-temple-in-ellora-caves-complex-in-india.webp?b=1&s=170667a&w=0&k=20&c=DPpmpKu5EkzvgfXKcNj6k_Sq9Yc3Hn4oXgCPXKwyfOc=",
+      "review": "4",
+      "stars": "4",
+      "id": 19
+    },
+    {
+      "desc": "Ajanta caves are known as the masterpiece of Buddhist religious art across the globe. This UNESCO heritage site, named after a neighboring medieval village, has more than 30 caves. All the caves are rock-cut in nature",
+      "Place": "Ajanta Caves",
+      "time": "More Than 3 days",
+      "date": "2023-09-13",
+      "price": "15000",
+      "imageAddress": "https://media.istockphoto.com/id/629821246/photo/kailas-temple-in-ellora-caves-complex-in-india.webp?b=1&s=170667a&w=0&k=20&c=DPpmpKu5EkzvgfXKcNj6k_Sq9Yc3Hn4oXgCPXKwyfOc=",
+      "review": "4",
+      "stars": "4",
+      "id": 20
+    },
+    {
+      "desc": "Mahabaleshwar is a hill station located in the Western Ghats, in Satara district of Maharashtra. Apart from its strawberries, Mahabaleshwar is also well known for its numerous rivers, magnificent cascades and majestic peaks.",
+      "Place": "Mahabaleshwar",
+      "time": "5 hours",
+      "date": "2023-09-13",
+      "price": "1999",
+      "imageAddress": "https://images.unsplash.com/photo-1507699811335-cdfa7aec174f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1haGFiYWxlc2h3YXJ8ZW58MHx8MHx8fDA%3D",
+      "review": "10",
+      "stars": "4",
+      "id": 21
+    },
+    {
+      "desc": "Mahabaleshwar is a hill station located in the Western Ghats, in Satara district of Maharashtra. Apart from its strawberries, Mahabaleshwar is also well known for its numerous rivers, magnificent cascades and majestic peaks.",
+      "Place": "Mahabaleshwar",
+      "time": "12 hours",
+      "date": "2023-09-13",
+      "price": "3000",
+      "imageAddress": "https://images.unsplash.com/photo-1507699811335-cdfa7aec174f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1haGFiYWxlc2h3YXJ8ZW58MHx8MHx8fDA%3D",
+      "review": "10",
+      "stars": "4",
+      "id": 22
+    },
+    {
+      "desc": "Mahabaleshwar is a hill station located in the Western Ghats, in Satara district of Maharashtra. Apart from its strawberries, Mahabaleshwar is also well known for its numerous rivers, magnificent cascades and majestic peaks.",
+      "Place": "Mahabaleshwar",
+      "time": "24 hours",
+      "date": "2023-09-13",
+      "price": "5000",
+      "imageAddress": "https://images.unsplash.com/photo-1507699811335-cdfa7aec174f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1haGFiYWxlc2h3YXJ8ZW58MHx8MHx8fDA%3D",
+      "review": "10",
+      "stars": "4",
+      "id": 23
+    },
+    {
+      "desc": "Mahabaleshwar is a hill station located in the Western Ghats, in Satara district of Maharashtra. Apart from its strawberries, Mahabaleshwar is also well known for its numerous rivers, magnificent cascades and majestic peaks.",
+      "Place": "Mahabaleshwar",
+      "time": "3 days",
+      "date": "2023-09-13",
+      "price": "7000",
+      "imageAddress": "https://images.unsplash.com/photo-1507699811335-cdfa7aec174f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1haGFiYWxlc2h3YXJ8ZW58MHx8MHx8fDA%3D",
+      "review": "10",
+      "stars": "4",
+      "id": 24
+    },
+    {
+      "desc": "Mahabaleshwar is a hill station located in the Western Ghats, in Satara district of Maharashtra. Apart from its strawberries, Mahabaleshwar is also well known for its numerous rivers, magnificent cascades and majestic peaks.",
+      "Place": "Mahabaleshwar",
+      "time": "More Than 3 days",
+      "date": "2023-09-13",
+      "price": "10000",
+      "imageAddress": "https://images.unsplash.com/photo-1507699811335-cdfa7aec174f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1haGFiYWxlc2h3YXJ8ZW58MHx8MHx8fDA%3D",
+      "review": "10",
+      "stars": "4",
+      "id": 25
+    }
+  ],
+  "bookings": [],
+  "whishlist": []
+}
